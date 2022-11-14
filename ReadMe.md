@@ -14,4 +14,4 @@ Sean de Wolski
 
 ## Feedback
 
-Please create an issue for any feedback.
+Please [create an issue](https://github.com/SCdW/Glowing-Goggles/issues) for any feedback.
