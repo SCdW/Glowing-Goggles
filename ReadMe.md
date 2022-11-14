@@ -1,16 +1,17 @@
 # Identifying Required Products in a Code Base
 
-## Special Instructions
-Description of demo use, instructions for how to run it, context for use, special instructions such as downloading data, etc.
+This example shows the different approaches for identifying which MathWorks products are used in a code base and the pros and cons of each.  To get started, open the  `WhichProductsAreUsed.mlx` live script in this repository.
 
-## Recording
-Link to recording, if one exists. Do not include videos in repositories directly.
-You can create hyperlinks in markdown like [this](http://www.mathworks.com).
+The three approaches evaluated are:
+
+* Checking `>>license inuse` after running code
+* Dependency Analysis in a Project
+* `requiredFilesAndProducts` (not recommended)
 
 ## Contact
-Name of AE(s) to contact about this demo with questions
 
-## Relevant Industries
+Sean de Wolski
 
-## Relevant Products
+## Feedback
 
+Please create an issue for any feedback.
